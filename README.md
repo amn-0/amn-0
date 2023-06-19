@@ -1,6 +1,6 @@
 ![MasterHead](https://hackernoon.com/images/f2px36fy.gif)
 <h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/OTKgDSt.gif"/>
 
