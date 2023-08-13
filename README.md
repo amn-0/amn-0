@@ -20,8 +20,6 @@
 <a href="https://www.leetcode.com/aman981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aman981" height="30" width="40" /></a>
 </p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amn-0&" alt="amn-0" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amn-0&show_icons=true&locale=en" alt="amn-0" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amn-0&show_icons=true&locale=en&layout=compact" alt="amn-0" /></p>
 
